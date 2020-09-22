@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+  <Kingdom id="atenveldt" owner="Hero.aten_1_1" banner_key="11.45.12.4345.4345.768.768.1.0.0.520.84.13.512.512.767.809.1.0.-21.438.84.13.352.486.773.361.1.1.180.423.128.13.893.761.777.835.1.0.0" primary_banner_color="0xff224277" secondary_banner_color="0xffCEDAE7" label_color="FF1856A1" color="FF5C2017" color2="FFECBA44" alternative_color="FFDBBA27" alternative_color2="ff910101" culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" name="{=FjwRsf1C}Atenveldt" short_name="{=8HMyTKF6}Atens" title="{=lAWwcO6b}Kingdom of Atenveldt" ruler_title="{=hwnp9abW}King" text="{=IudGLWQZ}The Aten monarchy descends from Robert the Roundpounder, a warlord who seized the lands from the Western Crown reaching coast to coast. He in turn recognized his lieutenants as barons and counts, granting them suzerainty over their lands in exchange for rallying to his banner in war. Some Aten kings clung to pwoer too tightly the territories broke of to form new kingdoms.">
+    <relationships>
+    </relationships>
+    <policies>
+      <policy name="{=DrnZOsjo}Dynastic Succession" />
+      <policy name="{=GH6FLbYm}Privy Council" />
+    </policies>
+  </Kingdom>
+</Kingdoms>

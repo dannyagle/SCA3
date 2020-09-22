@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+<!-- Atenveldt Lords -->
+  <NPCCharacter id="aten_1_1" name="Mark" age="48" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.vlandia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.vlandia_unarmored_noble_equipment" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="0000fe42c000220458c56743d5b5ab56396a8c717b876e66c7b287ab79c2a84b0005400905c96766000000000000000000000000000000000000000001282000" /-->
+      <BodyProperties version="4" key="0000FC02C000220458C56743D5B5AB56396A8C717B876E66C7B287AB79C2A84B0000000305C96766000000000000000000000000000000000000000000F02000" />
+    </face>
+    <skills>
+      <skill id="Athletics" value="60" />
+      <skill id="Riding" value="100" />
+      <skill id="OneHanded" value="60" />
+      <skill id="TwoHanded" value="100" />
+      <skill id="Polearm" value="85" />
+      <skill id="Bow" value="25" />
+    </skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <equipmentSet></equipmentSet>
+  </NPCCharacter>
+
+</NPCCharacters>

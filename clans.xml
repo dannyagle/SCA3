@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <!-- Atenveldt -->
+  <Faction id="clan_atenveldt_1"
+           name="{=A4wIVnM4}von Neuman"
+           tier="6"
+           owner="Hero.aten_1_1"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.atenveldt"
+           banner_key="11.45.12.4345.4345.768.768.1.0.0.520.84.13.512.512.767.809.1.0.-21.438.84.13.352.486.773.361.1.1.180.423.128.13.893.761.777.835.1.0.0" />
+
+</Factions>

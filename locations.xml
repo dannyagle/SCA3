@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HeroLocations>
+    <HeroLocation>
+        <HeroId>aten_1_1</HeroId>
+        <HeroName>Mark</HeroName>
+        <SettlementId>town_ES3</SettlementId>
+        <XOffset>5</XOffset>
+        <YOffset>5</YOffset>
+    </HeroLocation>
+</HeroLocations>
